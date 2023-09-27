@@ -1,0 +1,6 @@
+venv/
+data/languages/html/
+data/languages/paragraphs/
+data/languages/short_paragraphs/
+data/movie_reviews/poldata.README.2.0
+data/movie_reviews/txt_sentoken
